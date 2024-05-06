@@ -1,0 +1,11 @@
+.container {
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+#resultado {
+    background-color: #f8f9fa;
+    padding: 20px;
+    border-radius: 5px;
+}
+
